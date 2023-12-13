@@ -1,2 +1,1 @@
-Проект ОНО ТЕБЕ НАДО
-https://github.com/Griga797/One-project.git
+https://github.com/Griga797/ono-tebe-nado.git
